@@ -1,0 +1,28 @@
+.block{
+	color:white;
+	border: 3px solid #60ff68;
+	background-color:black;
+	width: 30%;
+	margin: 20px;
+}
+
+.block p{
+	font-size:16px;
+	padding: 20px 20px;
+}
+
+.bar{
+	border:5px solid #60ff68;
+	list-style-type:inline;
+	color:white;
+	background-color:black;
+}
+.bar a{
+	color:white
+}
+.bar a:hover{
+	color:green
+}
+.bar li{
+	display:inline;
+}
